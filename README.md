@@ -49,33 +49,7 @@ The Crypto Dashboard is a simple web application that visualizes the 24-hour pri
 - Responsive design using React and `react-grid-layout`.
 - Add or remove cryptocurrencies from the heatmap.
 
-## Project Structure
 
-crypto-dashboard
-├── backend
-│ ├── node_modules
-│ ├── package-lock.json
-│ ├── package.json
-│ └── server.js
-├── crypto-dashboard-frontend
-│ ├── node_modules
-│ ├── public
-│ ├── src
-│ │ ├── App.css
-│ │ ├── App.js
-│ │ ├── App.test.js
-│ │ ├── index.css
-│ │ ├── index.js
-│ │ ├── logo.svg
-│ │ ├── reportWebVitals.js
-│ │ └── setupTests.js
-│ ├── .gitignore
-│ ├── package-lock.json
-│ ├── package.json
-│ └── README.md
-
-markdown
-Copy code
 
 ## Prerequisites
 
